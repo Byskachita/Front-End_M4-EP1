@@ -8,6 +8,8 @@ const Home = () => {
       <p>Gestiona pacientes y agenda tus citas de manera sencilla.</p>
     </main>
   );
+
+  
 };
 
 export default Home;

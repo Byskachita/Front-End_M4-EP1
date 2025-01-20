@@ -1,0 +1,27 @@
+/* src/components/ServiceList.css */
+.service-list {
+    padding: 1rem;
+    background-color: #f4f4f9;
+    border-radius: 5px;
+    margin-right: 0.5rem;
+    color: #007bff;
+  }
+  
+  .service-list h2 {
+    color: #333;
+  }
+  
+  .service-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .service-list li {
+    margin: 0.5rem 0;
+    color: #555;
+  }
+ 
+  .service-icon {
+    margin-right: 0.5rem;
+    color: #007bff;
+  }
