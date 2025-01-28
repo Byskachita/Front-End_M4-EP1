@@ -1,0 +1,21 @@
+[
+    {
+      "nombre": "Dr. Luis Martínez",
+      "especialidad": "Cardiología",
+      "experiencia": 15,
+      "habilidades": ["Ecocardiografía", "Consulta general"]
+    },
+    {
+      "nombre": "Dra. Clara Gómez",
+      "especialidad": "Pediatría",
+      "experiencia": 10,
+      "habilidades": ["Atención infantil", "Vacunación"]
+    },
+    {
+      "nombre": "Dr. Ricardo Pérez",
+      "especialidad": "Neurología",
+      "experiencia": 12,
+      "habilidades": ["Diagnóstico neurológico", "Tratamiento de migrañas"]
+    }
+  ]
+  

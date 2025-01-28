@@ -1,6 +1,8 @@
 // src/pages/Home.jsx
 import React from 'react';
 import '../styles/Home.css';
+import DoctorList from '../components/DoctorList';
+
 
 const Home = () => {
   const servicios = [
@@ -45,6 +47,9 @@ const Home = () => {
   return (
     <main className="home-page">
       <h1>Bienvenido al Hospital Central</h1>
+
+      <DoctorList />
+
       {/* Cards de Servicios */}
       <section className="cards-container">
         {servicios.map((servicio, index) => (
